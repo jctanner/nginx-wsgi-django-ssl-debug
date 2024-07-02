@@ -1,0 +1,4 @@
+django
+uwsgi
+epdb
+social-auth-app-django
